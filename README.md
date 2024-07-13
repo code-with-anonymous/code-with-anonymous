@@ -1,6 +1,6 @@
 
 
-# Top [![committers.top badge](https://user-badge.committers.top/pakistan/arhamansari11.svg)](https://user-badge.committers.top/pakistan/arhamansari11)th Pakistani Github Contributor.
+# Top [![committers.top badge](https://user-badge.committers.top/pakistan/code-with-anonymous.svg)](https://user-badge.committers.top/pakistan/code-with-anonymous)th Pakistani Github Contributor.
 
 # Full Stack Software Engineer 🖥️.
 
@@ -33,18 +33,12 @@ puzzles.
 </div>
 </a>
 
-### Backend  
-<a href="https://github.com/arhamansari11">
-<div align="center">   
-      <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
+
     
 ### Languages
 <a href="https://github.com/arhamansari11">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,php,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,cpp,,python,&perline=4" /> 
 </div>
 </a>
 
@@ -53,7 +47,7 @@ puzzles.
 ### Others
 <a href="https://github.com/arhamansari11">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,heroku,discord,stackoverflow,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,,netlify,vite,,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
