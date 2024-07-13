@@ -1,18 +1,24 @@
-# Muhammad Rayyan
+
 
 # Frontend Developer🖥️
 
 <!-- 
 [![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
 -->
+# About
 
 <!-- Bio -->
-- **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[7th](https://committers.top/pakistan#arhamansari11)**.
--
--
-- **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7213547594789101568/)** More than 50 WPM.
+- 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
+- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Frontend Development
+- 👨‍🏫 𝗥𝗼𝗹𝗲: Moderator | Trainer at <a href="https://www.icode.guru/" target="_blank">iCodeGuru</a>.
+- 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
+- 🎓 𝗩𝗼𝗹𝘂𝗻𝘁𝗲𝗲𝗿: Teaches Python and DSA at <a href="https://www.icode.guru/" target="_blank">iCodeGuru</a>.
+- 🥅 2024 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
+- 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
+- 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
+- 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
-#
+# Basic Skills
 
 <table><tr><td valign="top" width="25%">
 
