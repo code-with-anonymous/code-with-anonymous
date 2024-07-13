@@ -21,37 +21,43 @@ puzzles.
 
 #
 
- ## My Skill Set 🛠️:
+## My Skill Set 🛠️:
 
-<table><tr><td valign="top" width="25%">
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-### Frontend  
-<a href="https://github.com/code-with-anonymous">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&perline=4" /> 
-</div>
-</a>
+      ### Frontend  
+      <a href="https://github.com/code-with-anonymous">
+        <div align="center">  
+          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&perline=4" /> 
+        </div>
+      </a>
 
+    </td>
+    <td valign="top" width="33%">
 
-    
-### Languages
-<a href="https://github.com/code-with-anonymous">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=js,cpp,,python,&perline=4" /> 
-</div>
-</a>
+      ### Languages
+      <a href="https://github.com/code-with-anonymous">
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=js,cpp,python&perline=4" /> 
+        </div>
+      </a>
 
-</td><td valign="top" width="25%">
-  
-### Others
-<a href="https://github.com/arhamansari11">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,,netlify,vite,,discord,stackoverflow,vscodeqt&perline=4" /> 
-</div>
-</a>
-</td>
-</tr>
+    </td>
+    <td valign="top" width="33%">
+
+      ### Others
+      <a href="https://github.com/arhamansari11">
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,netlify,vite,discord,stackoverflow&perline=4" /> 
+        </div>
+      </a>
+
+    </td>
+  </tr>
 </table>
+
 
 
 
