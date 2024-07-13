@@ -20,7 +20,8 @@
 
 ## My Skill Set 🛠️:
 
-<table>
+<table><tr><td valign="top" width="25%">
+
   <tr>
     <td valign="top" width="33%">
 
