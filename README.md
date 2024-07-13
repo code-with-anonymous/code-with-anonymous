@@ -27,16 +27,16 @@ puzzles.
 <table><tr><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/code-with-anonymous">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&perline=4" /> 
 </div>
 </a>
 
 
     
 ### Languages
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/code-with-anonymous">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=js,cpp,,python,&perline=4" /> 
 </div>
