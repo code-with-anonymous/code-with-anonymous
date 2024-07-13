@@ -1,6 +1,14 @@
 
 
 # Frontend Developer🖥️
+## About Me
+
+Hi, I'm **Muhammad Rayyan**, a Computer Science student at the University of Agriculture, Faisalabad (UAF). I'm currently pursuing a Bachelor's degree in Computer Science and am passionate about web development and problem-solving. 
+
+I'm learning various web technologies like HTML, CSS, JavaScript, and React. I enjoy tackling coding challenges and participating in hackathons to sharpen my skills. 
+
+Connect with me on [GitHub](https://github.com/code-with-anonymous) to see my latest projects!
+
 
 <!-- 
 [![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
@@ -12,7 +20,6 @@
 - 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Frontend Development
 - 👨‍🏫 𝗥𝗼𝗹𝗲: Moderator | Trainer at <a href="https://www.icode.guru/" target="_blank">iCodeGuru</a>.
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
-- 🎓 𝗩𝗼𝗹𝘂𝗻𝘁𝗲𝗲𝗿: Teaches Python and DSA at <a href="https://www.icode.guru/" target="_blank">iCodeGuru</a>.
 - 🥅 2024 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
 - 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
