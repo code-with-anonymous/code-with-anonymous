@@ -59,14 +59,14 @@ Connect with me on [GitHub](https://github.com/code-with-anonymous) to see my la
 ## GitHub Stats📈:
 <p align="center">
     <a href="https://github.com/code-with-anonymous">
-        <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=code-with-anonymous&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=code-with-anonymous&langs_count=12&layout=compact&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=code-with-anonymous&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=code-with-anonymous&langs_count=12&layout=compact&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/code-with-anonymous"> 
-        <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-anonymous&theme=algolia&hide_border=true" /> 
+        <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-anonymous&theme=algolia&hide_border=true" /> 
     </a>  
 </p>
 
