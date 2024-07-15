@@ -10,12 +10,10 @@ I'm learning various web technologies like HTML, CSS, JavaScript, and React. I e
 Connect with me on [GitHub](https://github.com/code-with-anonymous) to see my latest projects!
 
 
-<!-- 
-[![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
--->
+
 # About
 
-<!-- Bio -->
+
 - 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
 - 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Frontend Development
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
