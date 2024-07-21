@@ -1,11 +1,11 @@
-
+ 
 
 # Frontend Developer🖥️
 
 
 Hi, I'm **Muhammad Rayyan**, a Computer Science student at the University of Agriculture, Faisalabad (UAF). I'm currently pursuing a Bachelor's degree in Computer Science and am passionate about web development and problem-solving. 
 
-I'm learning various web technologies like HTML, CSS, JavaScript, and React. I enjoy tackling coding challenges and participating in hackathons to sharpen my skills. 
+I'm learning various web technologies like HTML, CSS, JavaScript, and ReactJS. I enjoy tackling coding challenges and participating in hackathons to sharpen my skills. 
 
 Connect with me on [GitHub](https://github.com/code-with-anonymous) to see my latest projects!
 
