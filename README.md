@@ -53,6 +53,12 @@ Connect with me on [GitHub](https://github.com/code-with-anonymous) to see my la
 </td>
 </tr></table>
 
+ ## Connect with me🤝:
+<div align="center">
+    <a href="www.linkedin.com/in/muhammadrayyan05" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:"mrr"><img src="https://img.shields.io/badge/-arham96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white
+</div>ref="https://leetcode.com/u/codewithanonymous/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+
 ## GitHub Stats📈:
 <p align="center">
     <a href="https://github.com/code-with-anonymous">
