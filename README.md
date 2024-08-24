@@ -55,7 +55,7 @@ Connect with me on [GitHub](https://github.com/code-with-anonymous) to see my la
 
 ## Connect with me🤝:
 <div align="center">
-    <a href="www.linkedin.com/in/muhammadrayyan05" target="_blank">
+    <a href="https://www.linkedin.com/in/muhammadrayyan05/" target="_blank">
         <img src="https://img.shields.io/badge/-Muhammad%20Rayyan-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
     </a>
     <a target="_blank" href="mailto:mrr">
