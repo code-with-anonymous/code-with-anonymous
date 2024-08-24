@@ -59,7 +59,7 @@ Connect with me on [GitHub](https://github.com/code-with-anonymous) to see my la
         <img src="https://img.shields.io/badge/-Muhammad%20Rayyan-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
     </a>
     <a target="_blank" href="mailto:mrr">
-        <img src="https://img.shields.io/badge/-muhammad96100@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-mrrayyan200@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
     </a>
     <a href="https://leetcode.com/u/codewithanonymous/" target="_blank">
         <img src="https://img.shields.io/badge/-Muhammad%20Rayyan-FFA116?style=flat&logo=LeetCode&logoColor=white"/>
