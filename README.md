@@ -22,23 +22,30 @@ Connect with me on [GitHub](https://github.com/code-with-anonymous) to see my la
 - 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
-# Basic Skills
+## My Skill Set 🛠️:
 
 <table><tr><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/code-with-anonymous">
+<a href="https://github.com/arhamansari11">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&perline=3" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,materialui&perline=4" /> 
 </div>
 </a>
 
+### Backend  
+<a href="https://github.com/arhamansari11">
+<div align="center">   
+     <img src="https://skillicons.dev/icons?i=firebase,nodejs,appwrite&perline=4" />
 
+</div>
+</a>
+</td><td valign="top" width="25%">
     
 ### Languages
-<a href="https://github.com/code-with-anonymous">
+<a href="https://github.com/arhamansari11">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,cpp,python,&perline=3" /> 
+       <img src="https://skillicons.dev/icons?i=js,cpp,python,&perline=4" /> 
 </div>
 </a>
 
