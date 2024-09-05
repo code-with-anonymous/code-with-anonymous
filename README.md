@@ -1,6 +1,6 @@
  
 
-# Web Developer🖥️
+# Web Developer 🖥️
 
 
 Hi, I'm **Muhammad Rayyan**, a Computer Science student at the University of Agriculture, Faisalabad (UAF). I'm currently pursuing a Bachelor's degree in Computer Science and am passionate about web development and problem-solving.
